@@ -1,6 +1,6 @@
 terraform {
     backend "s3" {
-        bucket = "terraformeksproject"
+        bucket = "terraformeksproject14"
         key    = "state.tfstate"
     }
 }
